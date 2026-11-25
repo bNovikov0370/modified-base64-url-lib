@@ -1,6 +1,6 @@
 {
   "name": "modified-base64-url-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "URL-safe Base64 encoding for binary data, with optional padding removal.",
   "type": "module",
   "main": "src/index.js",
